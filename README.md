@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyn888&label=Profile%20views&color=0e75b6&style=flat" alt="joyn888" /> </p>
 
-- 🔭 I’m currently working on **Quizio**
+- 🔭 Recently completed project on  **Quizio** Website
 
-- 🌱 I’m currently learning **Python, Prompt engineer, React, DSA**
+- 🌱 I’m currently learning **Python, Data Analytics, Prompt engineer,**
 
 - 📫 How to reach me **joynath825@gmail.com**
 
